@@ -38,10 +38,43 @@ If you add third party assets in your map, do not forget to:
 
 ![hygienemuseum](./resources/grundriss-hygienemuseum.jpeg)
 
-* avst:
-* mrre:
-* tbre:
-* seso:
-* mcbl:
+Nebenräume sind: Nachbesprechungsräume ODER Allgemeine Quatschräume (Räume beschriften!)
 
-### Planned Features
+EG Mitte innen + außen davor (tbre + mcbl):
+
+* halle grünfläche, bänke, eisstand, liegewiesen
+* empfangsschalter links/rechts, säulengang links/rechts, nebenräume nur andeuten
+* ehrenhof = bar
+* großer hof = grünzeug + bühne (musikstream)
+
+Linker Flügel (mrre):
+
+* hinten kleiner Innenhof
+* vorne großer Glaskasten
+* 2 Nebenräume
+
+Rechter Flügel (avst):
+
+* 2 Innenhöfe
+* 3 Nebenräume
+
+Mitte Etage 1/Mitte Etage 2 (seso):
+
+* Etage 1
+  * Bar
+  * 2-3 Meetingräume
+* Etage 2
+  * Bar
+  * Großer Versammlungssaal (hauptstream vom dlc?)
+    * Evtl Website mit Stream öffnen?
+    * Oder kann man sogar direkt streamen?
+
+### Weitere Aufgaben
+
+* Schematische Übersichtskarte für Event: Wo ist was?
+
+Optional:
+
+* Scripten von Tasks / NPCs mit Achievement
+* Custom Avatare
+* Toilette!
