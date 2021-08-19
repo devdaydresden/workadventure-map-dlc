@@ -1,4 +1,4 @@
-# WorkAdventure Map Starter Kit
+# Workadventure for DLC
 
 This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
 
@@ -15,7 +15,7 @@ npm install
 npm run start
 ```
 
-The project will run at http://localhost:8080/
+The project will run at <http://localhost:8080/>
 
 ## Licenses
 
@@ -28,5 +28,20 @@ This project contains multiple licenses:
 ### About third party assets
 
 If you add third party assets in your map, do not forget to:
+
 1. Credit the author and license with the "tilesetCopyright" property present in the properties of each tilesets in the `map.json` file
 2. Add the license text in LICENSE.assets
+
+## Tasks
+
+### Maps
+
+![hygienemuseum](./resources/grundriss-hygienemuseum.jpeg)
+
+* avst:
+* mrre:
+* tbre:
+* seso:
+* mcbl:
+
+### Planned Features
