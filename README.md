@@ -41,6 +41,8 @@ If you add third party assets in your map, do not forget to:
 Nebenräume sind: Nachbesprechungsräume ODER Allgemeine Quatschräume (Räume beschriften!)
 
 EG Mitte innen + außen davor (tbre + mcbl):
+-> center-level-zero.json
+30x50 Tiles
 
 * halle grünfläche, bänke, eisstand, liegewiesen
 * empfangsschalter links/rechts, säulengang links/rechts, nebenräume nur andeuten
@@ -48,17 +50,24 @@ EG Mitte innen + außen davor (tbre + mcbl):
 * großer hof = grünzeug + bühne (musikstream)
 
 Linker Flügel (mrre):
+-> left-wing.json
+20x40 Tiles
 
 * hinten kleiner Innenhof
 * vorne großer Glaskasten
 * 2 Nebenräume
 
 Rechter Flügel (avst):
+-> right-wing.json
+20x40 Tiles
 
 * 2 Innenhöfe
 * 3 Nebenräume
 
 Mitte Etage 1/Mitte Etage 2 (seso):
+-> center-level-one.json
+-> center-level-two.json
+30x30 Tiles
 
 * Etage 1
   * Bar
@@ -78,3 +87,6 @@ Optional:
 * Scripten von Tasks / NPCs mit Achievement
 * Custom Avatare
 * Toilette!
+
+### Namenskonventionen
+* Eingangshalle+Außenbereich
