@@ -38,6 +38,8 @@ If you add third party assets in your map, do not forget to:
 
 ![hygienemuseum](./resources/grundriss-hygienemuseum.jpg)
 
+![hygienemuseum](./resources/hm_screen.png)
+
 Nebenräume sind: Nachbesprechungsräume ODER Allgemeine Quatschräume (Räume beschriften!)
 
 EG Mitte innen + außen davor (tbre + mcbl):
@@ -89,4 +91,5 @@ Optional:
 * Toilette!
 
 ### Namenskonventionen
+
 * Eingangshalle+Außenbereich
