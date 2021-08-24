@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"center-level-zero.json"
+                 "value":"center-level-zero.json#entry_right"
                 }],
          "type":"tilelayer",
          "visible":true,
