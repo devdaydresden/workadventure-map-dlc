@@ -36,7 +36,7 @@ If you add third party assets in your map, do not forget to:
 
 ### Maps
 
-![hygienemuseum](./resources/grundriss-hygienemuseum.jpeg)
+![hygienemuseum](./resources/grundriss-hygienemuseum.jpg)
 
 Nebenräume sind: Nachbesprechungsräume ODER Allgemeine Quatschräume (Räume beschriften!)
 
