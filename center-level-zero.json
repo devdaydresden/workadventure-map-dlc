@@ -39,7 +39,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"right-wing.json#entry_left"
+                         "value":"left-wing.json#entry_right"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -57,7 +57,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"left-wing.json#entry_right"
+                         "value":"right-wing.json#entry_left"
                         }],
                  "type":"tilelayer",
                  "visible":true,
