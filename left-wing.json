@@ -292,19 +292,6 @@
          "tilewidth":32
         }, 
         {
-         "columns":28,
-         "firstgid":1603,
-         "image":"src\/assets\/office-master\/pond.png",
-         "imageheight":896,
-         "imagewidth":896,
-         "margin":0,
-         "name":"pond",
-         "spacing":0,
-         "tilecount":784,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
          "columns":32,
          "firstgid":2387,
          "image":"src\/assets\/office-master\/treepacknewest.png",
